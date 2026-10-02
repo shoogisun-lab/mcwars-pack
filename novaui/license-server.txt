@@ -1,4 +1,4 @@
 # NovaUI licence server address. NovaUI reads the first http(s) line below before every licence check,
 # so the licence bot can move (new PC, new IP, a host) without a new NovaUI jar.
 # Replies are signed by the bot, so this file cannot unlock anything by itself.
-# No address yet: the bot is not reachable from the internet.
+http://157.180.7.37:23691
